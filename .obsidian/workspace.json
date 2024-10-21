@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "0e1c16595476e89c",
+    "type": "split",
+    "children": [
+      {
+        "id": "668f28a9cd3599cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b92f3d7ee5fb65e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45d1bf255dbb05f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cde2ccedce18f7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff385fd428a2f0c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "49339f1266069bff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#backend",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3a5459a0fa346d81",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d00d359c37886240",
+    "type": "split",
+    "children": [
+      {
+        "id": "d25b26c22c72df8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20e7296dbab5aa4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web frameworks/Frameworks/ASP.Net core.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ASP.Net core"
+            }
+          },
+          {
+            "id": "5ef3902366b54eb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web frameworks/Frameworks/ASP.Net core.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ASP.Net core"
+            }
+          },
+          {
+            "id": "3edfa89eca9bf3d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c62d772c18c7bc30",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web frameworks/Frameworks/ASP.Net core.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ASP.Net core"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6b92f3d7ee5fb65e",
+  "lastOpenFiles": [
+    "Web frameworks/Web Frameworks.md",
+    "TeamSoftwareProject/Team Software Project.md",
+    "TeamSoftwareProject/Pasted image 20241021152054.png",
+    "TeamSoftwareProject/Pasted image 20241021151945.png",
+    "TeamSoftwareProject/Pasted image 20241021151614.png",
+    "TeamSoftwareProject/Pasted image 20241021145031.png",
+    "TeamSoftwareProject/Web frameworks/Frameworks/Rocket.md",
+    "TeamSoftwareProject/Web frameworks/Frameworks/Solid JS.md",
+    "TeamSoftwareProject/Web frameworks/Frameworks/Django.md",
+    "TeamSoftwareProject/Web frameworks/Frameworks/React JS.md",
+    "TeamSoftwareProject/Web frameworks/Frameworks/Node JS.md",
+    "TeamSoftwareProject/Web frameworks/Frameworks/Larvel.md",
+    "TeamSoftwareProject/Web frameworks/Frameworks/Flask.md",
+    "TeamSoftwareProject/Web frameworks/Frameworks/Fiber.md",
+    "TeamSoftwareProject/Web frameworks/Frameworks/Blazor.md",
+    "TeamSoftwareProject/Web frameworks/Frameworks/Axum.md",
+    "TeamSoftwareProject/Web frameworks/Frameworks/ASP.Net core.md",
+    "TeamSoftwareProject/Web frameworks/Frameworks/Angular JS.md",
+    "TeamSoftwareProject/Web frameworks/Web Frameworks.md",
+    "TeamSoftwareProject/Web frameworks/Frameworks",
+    "TeamSoftwareProject/Web frameworks",
+    "TeamSoftwareProject/README.md",
+    "TeamSoftwareProject",
+    "Team Software Project.md",
+    "Web frameworks/Frameworks/Fiber.md",
+    "Web frameworks/Frameworks/Django.md",
+    "Web frameworks/Frameworks/Blazor.md",
+    "Web frameworks/Frameworks/Axum.md",
+    "Web frameworks/Frameworks/ASP.Net core.md",
+    "Web frameworks/Frameworks/Angular JS.md",
+    "Web frameworks/Frameworks/Flask.md",
+    "Web frameworks/Frameworks/Larvel.md",
+    "Web frameworks/Frameworks/Node JS.md",
+    "Pasted image 20241021145031.png",
+    "Pasted image 20241021151614.png",
+    "Pasted image 20241021151945.png",
+    "Pasted image 20241021152054.png",
+    "Algorithm/Base function Flowchart.svg",
+    "Algorithm/Cleint-server.svg",
+    "Web frameworks/Frameworks",
+    "Web frameworks",
+    "Algorithm",
+    "Database",
+    "AlgoMap.svg.crdownload",
+    "Databse.svg.crdownload",
+    "Databse.drawio"
+  ]
+}
